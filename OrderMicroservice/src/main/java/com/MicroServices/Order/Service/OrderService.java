@@ -1,8 +1,8 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Service;
+package com.MicroServices.Order.Service;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.DTO.OrderDTO;
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Model.Order;
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Repository.OrderRepository;
+import com.MicroServices.Order.DTO.OrderDTO;
+import com.MicroServices.Order.Model.Order;
+import com.MicroServices.Order.Repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;
 import org.springframework.data.crossstore.ChangeSetPersister;

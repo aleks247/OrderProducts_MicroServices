@@ -1,7 +1,7 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Model;
+package com.MicroServices.Order.Model;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Config.ProductDTOConverter;
-import com.OrderMicroserviceApp.OrderMicroserviceApp.DTO.ProductDTO;
+import com.MicroServices.Order.DTO.ProductDTO;
+import com.MicroServices.Order.Config.ProductDTOConverter;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

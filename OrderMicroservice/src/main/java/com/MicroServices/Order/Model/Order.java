@@ -1,4 +1,4 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Model;
+package com.MicroServices.Order.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

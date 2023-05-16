@@ -1,6 +1,6 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Config;
+package com.MicroServices.Order.Config;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.DTO.ProductDTO;
+import com.MicroServices.Order.DTO.ProductDTO;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.persistence.AttributeConverter;

@@ -1,4 +1,4 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Config;
+package com.MicroServices.Order.Config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp;
+package com.MicroServices.Order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

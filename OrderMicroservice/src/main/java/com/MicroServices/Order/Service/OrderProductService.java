@@ -1,7 +1,7 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Service;
+package com.MicroServices.Order.Service;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Model.OrderProducts;
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Repository.OrderProductsRepository;
+import com.MicroServices.Order.Model.OrderProducts;
+import com.MicroServices.Order.Repository.OrderProductsRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

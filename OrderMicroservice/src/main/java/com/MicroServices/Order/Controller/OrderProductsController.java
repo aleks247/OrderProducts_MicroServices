@@ -1,7 +1,7 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Controller;
+package com.MicroServices.Order.Controller;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Model.OrderProducts;
-import com.OrderMicroserviceApp.OrderMicroserviceApp.Service.OrderProductService;
+import com.MicroServices.Order.Model.OrderProducts;
+import com.MicroServices.Order.Service.OrderProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

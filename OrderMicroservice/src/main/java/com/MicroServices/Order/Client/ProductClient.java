@@ -1,6 +1,6 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.Client;
+package com.MicroServices.Order.Client;
 
-import com.OrderMicroserviceApp.OrderMicroserviceApp.DTO.ProductDTO;
+import com.MicroServices.Order.DTO.ProductDTO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

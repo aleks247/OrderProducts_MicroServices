@@ -1,4 +1,4 @@
-package com.OrderMicroserviceApp.OrderMicroserviceApp.DTO;
+package com.MicroServices.Order.DTO;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
