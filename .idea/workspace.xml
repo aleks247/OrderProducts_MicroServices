@@ -6,21 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03e314ab-a81d-4eb3-8de1-14f380a67775" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Client/ProductClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Client/ProductClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Config/ProductDTOConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Config/ProductDTOConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Controller/OrderProductsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Controller/OrderProductsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/DTO/OrderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/DTO/OrderDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/DTO/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/DTO/ProductDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Model/OrderProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Model/OrderProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/OrderMicroserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/OrderMicroserviceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Repository/OrderProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Repository/OrderProductsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Repository/OrderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Service/OrderProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Service/OrderProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/OrderMicroserviceApp/OrderMicroserviceApp/Service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/main/java/com/MicroServices/Order/Service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderMicroservice/src/test/java/com/OrderMicroserviceApp/OrderMicroserviceApp/OrderMicroserviceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderMicroservice/src/test/java/com/MicroServices/Order/OrderMicroserviceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/programming files/Junior course/Product_Order_App_MicroServices",
+    "last_opened_file_path": "D:/Programming/Java junior course/OrderProducts_MicroServices/InventoryMicroserviceApp",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
