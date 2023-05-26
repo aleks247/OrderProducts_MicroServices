@@ -45,4 +45,8 @@ public class ProductService {
         productRepository.save(productUpdate);
         return modelMapper.map(productUpdate, ProductDTO.class);
     }
+
+    public Product addProduct(Product product) {
+        return product;
+    }
 }
