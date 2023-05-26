@@ -45,4 +45,8 @@ public class OrderService {
         orderRepository.save(orderUpdate);
         return modelMapper.map(orderUpdate, OrderDTO.class);
     }
+
+    public Order addOrder(Order order) {
+        return order;
+    }
 }
