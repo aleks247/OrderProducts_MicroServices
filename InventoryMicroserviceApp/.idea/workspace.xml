@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3bb601-9d15-4d34-99d3-b6583d7533a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ProductMicroservice/src/test/java/com/MicroServices/Product/ProductServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrderMicroservice/src/test/java/com/MicroServices/Order/OrderServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InventoryMicroservice/src/test/java/com/MicroServices/Inventory/InventoryServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InventoryMicroservice/src/test/java/com/MicroServices/Inventory/InventoryServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrderMicroservice/src/main/java/com/MicroServices/Order/Service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrderMicroservice/src/main/java/com/MicroServices/Order/Service/OrderService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +59,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Programming/Java junior course/OrderProducts_MicroServices/ProductMicroservice",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java junior course/OrderProducts_MicroServices/ProductMicroservice&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="InventoryMicroserviceAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.InventoryMicroserviceApp.InventoryMicroserviceAppApplication" />
